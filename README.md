@@ -3,7 +3,7 @@ I.ソフトウエア開発基礎
 I. Java
 1. [Settup](https://docs.google.com/document/d/1Bhce_meNfVhBhtTsPDtclI0Fz56VjB8-g1gKqjKMats/edit?usp=sharing)
 
-2. [Git](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
+2. [Git](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/git_tutorial.md)
 
 3. [My sql](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
 
