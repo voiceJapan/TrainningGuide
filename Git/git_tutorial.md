@@ -5,8 +5,9 @@
 - Git、Github、VCS (version control software)について理解できるようにする
 - Githubを利用して、ソースコードの管理ができるようにする.
 - Gitのコマンドラインを覚えるようにする
-　+ ブランチ：checkout, create, delete
-  + リポジトリ: clone(クロン), add, commit（コミット）, push（プッシュ）, merge（マージ）、pull (プル)
+	+ ブランチ：checkout, create, delete
+	
+  	+ リポジトリ: clone(クロン), add, commit（コミット）, push（プッシュ）, merge（マージ）、pull (プル)
 
 ## 2. 実施日数:
 2日
