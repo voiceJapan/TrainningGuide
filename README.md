@@ -1,6 +1,6 @@
 # Training-Guideline
 I.ソフトウエア開発基礎
-1. [ソフトウエア開発基礎の教材]()
+1. [ソフトウエア開発基礎の教材](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/SoftwareDevelopment.md)
 
 II.Git 
 1. [Git基礎](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/git_tutorial.md)
