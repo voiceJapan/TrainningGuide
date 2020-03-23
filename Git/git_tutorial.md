@@ -8,7 +8,7 @@
   	+ リポジトリ: clone(クロン), add, commit（コミット）, push（プッシュ）, merge（マージ）、pull (プル)
 
 ## 2. 実施日数:
-2日
+1日
 ## 3. 教材URL:
 [内容]
 - https://drive.google.com/drive/folders/1Tj4h4rTSNUl8V5OYLMgkyAylV8Nrh4Ih?usp=sharing
