@@ -3,7 +3,7 @@
 
 ## 1.ソフトウエア開発基礎
 - 実施日数：　12日　（予定）
-- [教育担当者：　長谷川様](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/hasegawa_CV.docx)
+- [教育担当者：　長谷川様](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/hasegawa_CV.pdf)
 - [教材](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/SoftwareDevelopment.md)
 
 ## 2.開発の技術、ツールのトレーニング
