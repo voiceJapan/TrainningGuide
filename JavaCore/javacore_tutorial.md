@@ -30,7 +30,7 @@ https://github.com/framgia/coding-standards/blob/master/vn/README.md
 ### Happy coding!!!
 
 ### オンライコース：
-1. [w3School Java基礎コース] (https://www.w3schools.com/java/default.asp)
+1. [w3School Java基礎コース](https://www.w3schools.com/java/default.asp)
 
 2. [java基礎_5日でできる: 初めてのJavaプログラミング入門](https://www.udemy.com/course/10daysjava/learn/lecture/3875408?start=0#overview)
 	コース言語：日本語
