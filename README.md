@@ -3,29 +3,29 @@
 
 ## 1.ソフトウエア開発基礎
 - 実施日数：　12日　（予定）
-- 教育担当者：　 [長谷川様](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/hasegawa_CV.pdf)
+- 教育担当者：[長谷川様](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/hasegawa_CV.pdf)
 - [教材](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/SoftwareDevelopment.md)
 
 ## 2.開発の技術、ツールのトレーニング
 ### 2.1.Git 
 - 実施日数：　1日　（予定）
 - 教育形：独習
-- [Git基礎](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/git_tutorial.md)
+- [教育内容](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/git_tutorial.md)
 
 ### 2.2.Front-end
 - 実施日数：　2日　（予定）
 - 教育形：オンライコース
-- [Html/CSS/JavaScript](https://github.com/voiceJapan/TrainningGuide/blob/master/FrontEnd/Html.md)
+- [Html/CSS/JavaScript_教育内容](https://github.com/voiceJapan/TrainningGuide/blob/master/FrontEnd/Html.md)
 
 ### 2.3.データベース
 - 実施日数：　5日　（予定）
 - 教育形：オンライコース
-- [データベース基礎](https://github.com/voiceJapan/TrainningGuide/blob/master/DB/DB.md)	
+- [データベース基礎_教育内容](https://github.com/voiceJapan/TrainningGuide/blob/master/DB/DB.md)	
 
 ### 2.4.Java
 - 実施日数：　10日　（予定）
 - 教育形：オンライコース
-- [Settup](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javaSetup.md)
+- [環境設定](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javaSetup.md)
 
 - [Java 基礎](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javacore_tutorial.md)
 
