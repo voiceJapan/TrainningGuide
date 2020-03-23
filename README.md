@@ -11,7 +11,7 @@ III. Java
 2. [Java 基礎](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javacore_tutorial.md)
 
 III. Front-end
-1. [Html/CSS/JavaScript](https://github.com/voiceJapan/TrainningGuide/blob/master/Html/Html.md)
+1. [Html/CSS/JavaScript](https://github.com/voiceJapan/TrainningGuide/blob/master/FrontEnd/Html.md)
 
 IV. データベース
 1. [データベース基礎](https://github.com/voiceJapan/TrainningGuide/blob/master/DB/DB.md)	

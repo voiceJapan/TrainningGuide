@@ -30,9 +30,11 @@ https://github.com/framgia/coding-standards/blob/master/vn/README.md
 ### Happy coding!!!
 
 ### オンライコース：
-1. [java基礎_5日でできる: 初めてのJavaプログラミング入門](https://www.udemy.com/course/10daysjava/learn/lecture/3875408?start=0#overview)
+1. [w3School Java基礎コース] (https://www.w3schools.com/java/default.asp)
+
+2. [java基礎_5日でできる: 初めてのJavaプログラミング入門](https://www.udemy.com/course/10daysjava/learn/lecture/3875408?start=0#overview)
 	コース言語：日本語
-2. [javaFullStack](https://www.udemy.com/course/full-stack-java-developer-java/learn/lecture/12981182?start=0)
+3. [javaFullStack](https://www.udemy.com/course/full-stack-java-developer-java/learn/lecture/12981182?start=0)
 	コース言語：英語
 
 
