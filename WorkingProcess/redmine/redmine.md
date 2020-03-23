@@ -7,7 +7,7 @@
 
 ## II. Hướng dẫn đăng ký tài khoản Redmine
 - Truy cập link hệ thống: https://edu-redmine.sun-asterisk.vn/account/register
-- Đăng ký account theo hướng dẫn [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
+- Đăng ký account theo hướng dẫn [tại đây](https://github.com/voiceJapan/TrainningGuide/blob/master/Rails/RegisterEduRedmine.png)
 - Sau khi đăng ký thành công thì báo lại với Trainer/Manager để được kích hoạt account
 
 ### III. Hướng dẫn luồng chuyển đổi trạng thái của ticket (Status Flow)
@@ -37,7 +37,7 @@ Mô tả cách thực hiện của task theo như format sau:
   Mô tả ngắn cách thực hiện để người khác nắm được không cần quá chi tiết.
   *Related link:* Ví dụ link design, spec, ...
 ```
-Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/inprogress_task.png)
+Xem ví dụ [tại đây](https://github.com/voiceJapan/TrainningGuide/blob/master/WorkingProcess/redmine/inprogress_task.png)
 
 #### 2. Khi làm xong task
 - Cập nhật Spent time : Thời gian thực tế đã dùng để hoàn thành ticket
@@ -51,7 +51,7 @@ Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/blob/ma
   ví dụ: Refs [TASK][11000] Staff create a new form off
 ```
 - Gửi reivew pull request
-- Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/done_task.png)
+- Xem ví dụ [tại đây](https://github.com/voiceJapan/TrainningGuide/blob/master/WorkingProcess/redmine/done_task.png)
 
 #### 3. Pull request đã được review and merge
 - Chuyển status thành Resolved

@@ -67,10 +67,10 @@ end
 
 #### Bước 2: Tải tệp nén tương ứng với phiên bản rubocop cài đặt ở bước 1: 
 ##### > Với Ruby 2.5.x trở về trước
-Tải file [Rubocop v0.54.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.54.0.tar.gz)
+Tải file [Rubocop v0.54.0 config file](https://github.com/voiceJapan/TrainningGuide/blob/master/Rails/rubocop_config-0.54.0.tar.gz)
 
 ##### > Với Ruby 2.6.x trở đi
-Tải file [Rubocop v0.74.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.74.0.tar.gz)
+Tải file [Rubocop v0.74.0 config file](https://github.com/voiceJapan/TrainningGuide/blob/master/Rails/rubocop_config-0.74.0.tar.gz)
 
 Sau đó copy 3 file sau trong tệp nén vừa tải về gồm:
 ```

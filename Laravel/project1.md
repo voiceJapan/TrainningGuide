@@ -45,7 +45,7 @@ Thực hiện công việc theo từng bước như sau:
 ## 3. Add tasks on redmine + estimate time
 - Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/)
 #### Chú ý:
-- Tham khảo cách đặt tên account [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
+- Tham khảo cách đặt tên account [tại đây](https://github.com/voiceJapan/TrainningGuide/blob/master/Rails/RegisterEduRedmine.png)
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
 #### Quy trình chuyển đổi trạng thái của ticket như sau:
 1. Tất cả công việc cần làm phải được tạo thành ticket redmine rồi mới bắt tay vào làm
