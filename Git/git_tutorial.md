@@ -11,6 +11,7 @@
 1日
 ## 3. 教材URL:
 [内容]
+- https://github.com/voiceJapan/TrainningGuide/blob/master/Git/practice.md
 - https://drive.google.com/drive/folders/1Tj4h4rTSNUl8V5OYLMgkyAylV8Nrh4Ih?usp=sharing
 
 [参考URL]
