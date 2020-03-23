@@ -1,9 +1,9 @@
 # Training-Guideline 
 [トレーニングスケジュール](https://docs.google.com/spreadsheets/d/1jcEO6l40S_ZV6tkEQGnELWa9L9EZurNzSxmfqvxssy8/edit?usp=sharing)
 
-### ソフトウエア開発基礎 （ 4/6~）
-実施日数：　12日　（予定）
-1. [ソフトウエア開発基礎の教材](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/SoftwareDevelopment.md)
+### ソフトウエア開発基礎
+####  実施日数：　12日　（予定）
+#### [教材](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/SoftwareDevelopment.md)
 
 ###  開発の技術、ツールのトレーニング
 #### I.Git 
