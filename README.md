@@ -2,7 +2,7 @@
 I.ソフトウエア開発基礎
 
 II. Java
-1. [Settup](https://docs.google.com/document/d/1Bhce_meNfVhBhtTsPDtclI0Fz56VjB8-g1gKqjKMats/edit?usp=sharing)
+1. [Settup](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javaSetup.md)
 
 2. [Git](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/git_tutorial.md)
 
