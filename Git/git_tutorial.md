@@ -20,6 +20,6 @@
 - http://chris.beams.io/posts/git-commit/	
 	
 [注意]
-- 実行するため、[https://github.com/] のアカウントを必ず作成してください。
+- 実行するために、[https://github.com/] のアカウントを必ず作成してください。
 
 ### Good luck!!!
