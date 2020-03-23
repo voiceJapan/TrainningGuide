@@ -14,6 +14,7 @@ II. Java
 6. [Spring core](https://github.com/voiceJapan/TrainningGuide/blob/master/SpringCore/SpringCore_tutorial.md)
 
 7. [Spring MVC/Spring Boot/Struts2](https://github.com/voiceJapan/TrainningGuide/blob/master/SpringMVC/SpringMVC_tutorial.md)
+
 III. Front-end
 
 IV. [Process working on Redmine](https://github.com/voiceJapan/TrainningGuide/blob/master/WorkingProcess/redmine/redmine.md)
