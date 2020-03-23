@@ -6,16 +6,12 @@ II. Java
 
 2. [Git](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/git_tutorial.md)
 
-3. [My sql](https://github.com/voiceJapan/TrainningGuide/blob/master/mysql/mysql.md)
-
-4. [Java core](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javacore_tutorial.md)
-
-5. [Hibernate](https://github.com/voiceJapan/TrainningGuide/blob/master/Hibernate/hibernate_tutorial.md)
-
-6. [Spring core](https://github.com/voiceJapan/TrainningGuide/blob/master/SpringCore/SpringCore_tutorial.md)
-
-7. [Spring MVC/Spring Boot/Struts2](https://github.com/voiceJapan/TrainningGuide/blob/master/SpringMVC/SpringMVC_tutorial.md)
+3. [Java core](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javacore_tutorial.md)
 
 III. Front-end
+1. [Html/CSS/JavaScript](https://github.com/voiceJapan/TrainningGuide/blob/master/Html/Html.md)
 
-IV. [Process working on Redmine](https://github.com/voiceJapan/TrainningGuide/blob/master/WorkingProcess/redmine/redmine.md)
+IV. データベース
+1. [データベース基礎](https://github.com/voiceJapan/TrainningGuide/blob/master/DB/DB.md)	
+
+V. [Process working on Redmine](https://github.com/voiceJapan/TrainningGuide/blob/master/WorkingProcess/redmine/redmine.md)
