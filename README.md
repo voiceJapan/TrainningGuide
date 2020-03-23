@@ -3,8 +3,7 @@
 
 ### ソフトウエア開発基礎 （ 4/6~）
 実施日数：　12日　（予定）
-
-1.[ソフトウエア開発基礎の教材](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/SoftwareDevelopment.md)
+1. [ソフトウエア開発基礎の教材](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/SoftwareDevelopment.md)
 
 ###  開発の技術、ツールのトレーニング
 #### I.Git 
