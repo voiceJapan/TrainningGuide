@@ -1,6 +1,10 @@
 # Training-Guideline
-I.ソフトウエア開発基礎
+1. [トレーニングスケジュール](https://docs.google.com/spreadsheets/d/1jcEO6l40S_ZV6tkEQGnELWa9L9EZurNzSxmfqvxssy8/edit?usp=sharing)
+
+## ソフトウエア開発基礎　(12日 2020/4/6~)
 1. [ソフトウエア開発基礎の教材](https://github.com/voiceJapan/TrainningGuide/blob/master/SoftwareDevelopment/SoftwareDevelopment.md)
+
+##  開発の技術、ツールのトレーニング
 
 II.Git 
 1. [Git基礎](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/git_tutorial.md)
