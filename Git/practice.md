@@ -120,7 +120,7 @@ git rebase
 ```
 nâng cao
 
-test  branch 2
+test  branch pull request
 ###  Đưa 1 project có sẵn lên github
 - tạo repo ko kèm file readme
 - di chuyển 
