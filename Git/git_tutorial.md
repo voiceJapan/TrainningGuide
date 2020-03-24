@@ -15,6 +15,7 @@
 - https://drive.google.com/drive/folders/1Tj4h4rTSNUl8V5OYLMgkyAylV8Nrh4Ih?usp=sharing
 
 [参考URL]
+- https://guides.github.com/
 - https://git-scm.com/book/ja/v2 (日本語)←オススメ 
 - http://backlogtool.com/git-guide/vn/intro/intro1_1.html
 - https://learngitbranching.js.org/ - git branch実施ツール

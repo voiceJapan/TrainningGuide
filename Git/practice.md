@@ -1,3 +1,4 @@
+
 ## Nội dung học
 - Tìm hiểu sơ về Version Control, Git & Github
 - Cài đặt Git trên máy
@@ -90,8 +91,15 @@ xem toàn bộ các thay đổi đã thực hiện
 ```
 git log --decorate --graph --oneline
 ```
+```
+git log --graph --oneline --all
+```
+```
+git log --pretty=format:"%h %s" --graph
+```
 
 #### 3.Thao tác với branch
+mỗi người 1 branch, mỗi task 1 branck, mỗi bug 1 branch
 ```
 git branch
 ```
@@ -115,13 +123,15 @@ tạo branch mới và di chuyển sang branch mới
 git merge
 ```
 merge branch khác vào branch hiện tại.
-```
-git rebase
-```
-nâng cao
 
-test  branch pull request
 ###  Đưa 1 project có sẵn lên github
 - tạo repo ko kèm file readme
-- di chuyển 
+- di chuyển vào thư mục project, chạy command line theo hướng dẫn github
+
+### Pull request
+- Không phải ai cũng có quyền merge source vào remote master 
+- Hướng dẫn cách tạo pull request, cách comment pull request.
+- Đơn giản chỉ là: Ê code nè, merge giùm đi
+- Giúp commit ngắn gọn hơn
+- Hỗ trợ code review, ngăn code ẩu
 
