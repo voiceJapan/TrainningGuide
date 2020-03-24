@@ -21,6 +21,6 @@
 - http://chris.beams.io/posts/git-commit/	
 	
 [注意]
-- 実行するために、[https://github.com/] のアカウントを必ず作成してください。
+- 実施するために、[https://github.com/] のアカウントを必ず作成してください。
 
 ### Good luck!!!
