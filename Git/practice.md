@@ -111,5 +111,17 @@ git checkout -b branch_name
 ```
 tạo branch mới và di chuyển sang branch mới
 
-test 
+```
+git merge
+```
+merge branch khác vào branch hiện tại.
+```
+git rebase
+```
+nâng cao
+
+test  branch 2
+###  Đưa 1 project có sẵn lên github
+- tạo repo ko kèm file readme
+- di chuyển 
 
