@@ -6,6 +6,7 @@
 - Gitのコマンドラインを覚えるようにする
 	+ ブランチ：checkout, create, delete
   	+ リポジトリ: clone(クロン), add, commit（コミット）, push（プッシュ）, merge（マージ）、pull (プル)
+- Branch, PullRequestの作成ができるようにする
 
 ## 2. 実施日数:
 1日
@@ -17,7 +18,8 @@
 [参考URL]
 - https://guides.github.com/
 - https://git-scm.com/book/ja/v2 (日本語)←オススメ 
-- http://backlogtool.com/git-guide/vn/intro/intro1_1.html
+- https://www.atmarkit.co.jp/ait/articles/1708/01/news015.html
+- https://backlog.com/ja/git-tutorial/
 - https://learngitbranching.js.org/ - git branch実施ツール
 - http://chris.beams.io/posts/git-commit/	
 	

@@ -1,93 +1,82 @@
 
-## Nội dung học
-- Tìm hiểu sơ về Version Control, Git & Github
-- Cài đặt Git trên máy
+## バージョン管理とGit
 
-- Cơ bản: Tạo Github Repository, Git & Github
-- Pull & push
-- Cho các dự án đơn giản
-
-- Nâng cao: Branch, Merge
-- Confilict Resolving, Pull Request
-- Cho các dự án lớn hoặc đi làm
-
-## Git là gì
-### Version Control
-- Hệ thống giúp lưu trữ mọi thay đổi của source code
-- Hỗ trợ nhiều người làm việc cùng lúc.
-- Xem đứa nào thay đổi code.
-- Revert các thay đổi, đưa code về version cũ hơn, không lo mất code
+### バージョン管理システム　（Version Control System）
+- ファイルの変更を管理するものです。
+- ソースコードの変更を管理するシステム
+- 同じソースコードに対して複数人が同時に作業をサポートするシステム
+- ソースコードを別バージョンに戻すシステム。
 
 ### Git
-- Ra đời 2005, tác giả Linux Torvald
-- Toàn bộ code và history được lưu trữ trên máy người dùng
-
-#### Cơ chế hoạt động
-- Repository: Là 1 collection của code, có thể lưu trên máy local hoặc remote server. Clone từ remote server: mang tất cả source code, thông tin trên remote về local. Cập nhật thay đổi từ remote về local-> pull, cập nhật thay đổi từ local lên remote->push.
-- Snapshots: bản lưu trữ của tất cả các tác động với code, có thể come back lại các snapshots trước. Mỗi lần commits thì sẽ tạo 1 snapshots.
-- Commit
-- Branch
+- Gitに限らずですが、分散バージョン管理システムで重要なのは「リポジトリ」という概念です。このリポジトリに全てのファイルの変更履歴が管理されています。
+- Gitのメイン概念：
+	+ Repository (リポジトリ)
+	+ Branch （ブランチ）：ブランチとは、履歴の流れを分岐して記録していくためのものです
+	+ Pull Request (プルリクエスト)
+	+ Commit
+	+ Push, pull
+	+ Merge
 
 #### install Git
 - https://git-scm.com/download (window/mac/Linux/Unix)
 
 ## Github
+- GitHubは、Gitの仕組みを利用して、世界中の人々が自分の作品(プログラムコードやデザインデータなど)を保存、公開することができるようにしたウェブサービスの名称です。
+- Gitのウェブサーバー。
 
-- Git remote server 
+### Githubコマンドのご紹介
 
-### Các lệnh Github cơ bản:
-
-#### 1.Thao tác với Repository
+#### 1.Repositoryに関するコマンド
 ```
  git init
 ```
-tạo ra 1 repossitory github
+リポジトリを新規に作成する
 ```
  git clone
 ```
-clone 1 repository từ github về local
+義tふbに保存されてるリモートのリポジトリ(ファイルやディレクトリの状態)をロカールコピーする
 ```
  git pull
 ```
-cập nhật thay đổi từ remote repository về local.
+リモートのリポジトリの内容をローカルのリポジトリに取り込む
+```
+git push
+```
+ローカルのリポジトリの内容をリモートのリポジトリに送り込む
 ```
 git add  file_name
 ```
-add 1 file đã thay đổi
-
+作業ブランチにある一つのファイルの更新内容を、インデックスに反映する
 ```
 git add . 
 git add *.*
 ```
-add toàn bộ thay đổi
+作業ブランチにある全部ファイルの更新内容を、インデックスに反映する
 ```
 git commit 
 ```
-tạo snapshots nhưng thay đổi tại local repository
+追加・変更したファイルをGitに登録する
+
 ```
-git commit -m "comment"
+git commit -m 「comment」
 ```
-commit và add message xem nội dung commit là gì
-```
-git push
-```
-cập nhật các thay đổi từ local lên remote
+コミットしながら、説明のメッセンジーをコミットに追加する
 ```
 git status
 ```
-kiểm tra trạng thái hiện tại của local repository
+ワーキング・ツリーの状態を表示する
 
 ```
-git diff
+git diff 「ダイレクトリー」
 ```
-xem nội dung của file đã thay đổi
+ファイルの変更内容を表す
+working tree と index の差分などを表示する
 
-#### 2.Thao tác với log
+#### 2.ロッグに関するコマンド
 
 ```
 git log
 ```
-xem toàn bộ các thay đổi đã thực hiện
 ```
 git log --decorate --graph --oneline
 ```
@@ -98,12 +87,13 @@ git log --graph --oneline --all
 git log --pretty=format:"%h %s" --graph
 ```
 
-#### 3.Thao tác với branch
-mỗi người 1 branch, mỗi task 1 branck, mỗi bug 1 branch
+#### 3.Branch（ブランチ）に関するコマンド
+ 「注意」タスク、バッグに対しては、それぞれブランチを作成してください。
+
 ```
 git branch
 ```
-xem toàn bộ các branch hiện có
+
 ```
 git branch -d branch_name
 ```
@@ -134,4 +124,7 @@ merge branch khác vào branch hiện tại.
 - Đơn giản chỉ là: Ê code nè, merge giùm đi
 - Giúp commit ngắn gọn hơn
 - Hỗ trợ code review, ngăn code ẩu
+
+
+alooo
 
