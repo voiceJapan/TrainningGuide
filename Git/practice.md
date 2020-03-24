@@ -55,7 +55,6 @@ add 1 file đã thay đổi
 ```
 git add . 
 git add *.*
-git add -a
 ```
 add toàn bộ thay đổi
 ```
