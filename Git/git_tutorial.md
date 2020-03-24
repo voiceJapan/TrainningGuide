@@ -23,4 +23,4 @@
 [注意]
 - 実施するために、[https://github.com/] のアカウントを必ず作成してください。
 
-### Good luck!!!
+### Good luck everyone!!!

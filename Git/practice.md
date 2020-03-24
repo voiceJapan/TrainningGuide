@@ -48,8 +48,16 @@ clone 1 repository từ github về local
 ```
 cập nhật thay đổi từ remote repository về local.
 ```
-git add và git add .
+git add  file_name
 ```
+add 1 file đã thay đổi
+
+```
+git add . 
+git add *.*
+git add -a
+```
+add toàn bộ thay đổi
 ```
 git commit 
 ```
@@ -61,12 +69,22 @@ git commit -m "comment"
 ```
 git push
 ```
+```
+git status
+```
+kiểm tra trạng thái hiện tại của local repository
+
+```
+git diff
+```
+xem nội dung của file đã thay đổi
 
 ```
 git log
 ```
+xem toàn bộ các thay đổi đã thực hiện
 ```
-git log -decorate -graph -oneline
+git log --decorate --graph --oneline
 ```
 
 
