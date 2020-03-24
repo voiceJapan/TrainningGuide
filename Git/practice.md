@@ -36,7 +36,7 @@
 
 ### Các lệnh Github cơ bản:
 
-#### Thao tác với Repository
+#### 1.Thao tác với Repository
 ```
  git init
 ```
@@ -81,7 +81,7 @@ git diff
 ```
 xem nội dung của file đã thay đổi
 
-#### Thao tác với log
+#### 2.Thao tác với log
 
 ```
 git log
@@ -91,7 +91,7 @@ xem toàn bộ các thay đổi đã thực hiện
 git log --decorate --graph --oneline
 ```
 
-#### Thao tác với branch
+#### 3.Thao tác với branch
 ```
 git branch
 ```
@@ -110,4 +110,6 @@ tạo branch mới
 git checkout -b branch_name
 ```
 tạo branch mới và di chuyển sang branch mới
+
+test 
 
