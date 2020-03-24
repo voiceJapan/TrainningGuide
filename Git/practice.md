@@ -35,6 +35,8 @@
 - Git remote server 
 
 ### Các lệnh Github cơ bản:
+
+#### Thao tác với Repository
 ```
  git init
 ```
@@ -64,10 +66,11 @@ tạo snapshots nhưng thay đổi tại local repository
 ```
 git commit -m "comment"
 ```
-
+commit và add message xem nội dung commit là gì
 ```
 git push
 ```
+cập nhật các thay đổi từ local lên remote
 ```
 git status
 ```
@@ -78,6 +81,8 @@ git diff
 ```
 xem nội dung của file đã thay đổi
 
+#### Thao tác với log
+
 ```
 git log
 ```
@@ -86,5 +91,23 @@ xem toàn bộ các thay đổi đã thực hiện
 git log --decorate --graph --oneline
 ```
 
+#### Thao tác với branch
+```
+git branch
+```
+xem toàn bộ các branch hiện có
+```
+git branch -d branch_name
+```
+xoá branch 
 
+```
+git branch branch_name
+```
+tạo branch mới
+
+```
+git checkout -b branch_name
+```
+tạo branch mới và di chuyển sang branch mới
 
