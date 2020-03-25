@@ -1,5 +1,5 @@
 
-## バージョン管理とGit
+## I.バージョン管理とGit
 
 ### バージョン管理システム　（Version Control System）
 - ファイルの変更を管理するものです。
@@ -20,7 +20,7 @@
 #### install Git
 - https://git-scm.com/download (window/mac/Linux/Unix)
 
-## Github
+## II.Github
 - GitHubは、Gitの仕組みを利用して、世界中の人々が自分の作品(プログラムコードやデザインデータなど)を保存、公開することができるようにしたウェブサービスの名称です。
 - Gitのウェブサーバー。
 
