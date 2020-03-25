@@ -9,9 +9,9 @@
 ## 3. 勉強スケジュール：
 ### 最初の１日：
 - W3School コース
-⋅⋅⋅[W3School html基礎コース](https://www.w3schools.com/html/default.asp)
-⋅⋅⋅[W3School CSS基礎コース](https://www.w3schools.com/css/default.asp)
-⋅⋅⋅[W3School javaScript基礎コース](https://www.w3schools.com/js/default.asp)
+⋅⋅1.[W3School html基礎コース](https://www.w3schools.com/html/default.asp)
+⋅⋅2.[W3School CSS基礎コース](https://www.w3schools.com/css/default.asp)
+⋅⋅3.[W3School javaScript基礎コース](https://www.w3schools.com/js/default.asp)
 
 ### オンライコース：
 2. [Html/CSS/javaScript: Webプログラミング入門](https://www.udemy.com/course/html-css-js/learn/lecture/7965502?start=705#overview)
