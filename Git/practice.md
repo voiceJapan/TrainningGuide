@@ -140,9 +140,9 @@ git push -u origin master
 ### Pull request
 - プルリクエストとは、簡単に言うと、「ソースコードを変更、追加しましたのでのでreviewしてもらえますか。問題がなければ、Masterにマージお願いします。」と言うメッセンジーをmaster  リポジトリの管理者に送る。
 - プルリクエストを使わない場合：
-- ![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/normalflow.png "normal flow")
+..![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/normalflow.png "normal flow")
 - プルリクエストを使う場合：
-- ![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/branchflow.png "branch flow")
+..![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/branchflow.png "branch flow")
 
 #### Github flow(フロー)
 ![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/githubFlow.png "github flow")
