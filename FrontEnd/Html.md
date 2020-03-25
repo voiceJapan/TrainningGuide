@@ -15,7 +15,7 @@
 
 ### 残る2日
 - オンライコース：
-  - 2. [Html/CSS/javaScript: Webプログラミング入門](https://www.udemy.com/course/html-css-js/learn/lecture/7965502?start=705#overview)
+  - [Html/CSS/javaScript: Webプログラミング入門](https://www.udemy.com/course/html-css-js/learn/lecture/7965502?start=705#overview)
 
 ## [参考URL]
 - Frontend、設計に興味持っている人が参考して見てください：
