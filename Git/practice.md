@@ -95,9 +95,9 @@ git branch
 ```
 
 ```
-git branch -d branch_name
+git branch -d [branch_test]
 ```
-xoá branch 
+[branch_test] 削除します。
 
 ```
 git branch branch_name
@@ -114,17 +114,30 @@ git merge
 ```
 merge branch khác vào branch hiện tại.
 
+```
+branch -m [古いブランチ名] [新しいブランチ名]
+```
+古いブランチ名を[新しいブランチ名]に変更する
+```
+git branch -m [新しいブランチ名]
+```
+現在の作業中のブランチを変更する
+
 ###  Đưa 1 project có sẵn lên github
 - tạo repo ko kèm file readme
 - di chuyển vào thư mục project, chạy command line theo hướng dẫn github
 
 ### Pull request
-- Không phải ai cũng có quyền merge source vào remote master 
-- Hướng dẫn cách tạo pull request, cách comment pull request.
-- Đơn giản chỉ là: Ê code nè, merge giùm đi
-- Giúp commit ngắn gọn hơn
-- Hỗ trợ code review, ngăn code ẩu
+- プルリクエストとは、簡単に言うと、「ソースコードを変更、追加しましたのでのでreviewしてもらえますか。問題がなければ、Masterにマージお願いします。」と言うメッセンジーをmaster  リポジトリの管理者に送る。
+
+#### Github flow(フロー)
+![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/githubFlow.png "github flow")
+- https://guides.github.com/introduction/flow/
+- 1. ブランチを作成する
+- 2. コミット追加する
+- 3. プルリクエストを作成する
+- 4. ソースコードreview
+- 5. デイプロい
 
 
-alooo
 
