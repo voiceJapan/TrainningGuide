@@ -123,9 +123,20 @@ git branch -m [新しいブランチ名]
 ```
 現在の作業中のブランチを変更する
 
-###  Đưa 1 project có sẵn lên github
-- tạo repo ko kèm file readme
-- di chuyển vào thư mục project, chạy command line theo hướng dẫn github
+### ローカルに保存されてるプロジェクトをGithubにプッシュする
+- GithubでREADMEがないリポシトリンを新規作成する
+![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/gitRepo.png "github repo Readme")
+- ロカールプロジェクトディレクトリに入って、下記のコンマンドラインを実行する
+```
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin [github_repository_url]
+git push -u origin master
+
+```
+- [github_repository_url]
+![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/repoURL.png "repo URL")
 
 ### Pull request
 - プルリクエストとは、簡単に言うと、「ソースコードを変更、追加しましたのでのでreviewしてもらえますか。問題がなければ、Masterにマージお願いします。」と言うメッセンジーをmaster  リポジトリの管理者に送る。
