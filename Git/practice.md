@@ -102,18 +102,17 @@ git branch -d [branch_test]
 ```
 git branch branch_name
 ```
-tạo branch mới
+ブランチを新規作成する
 
 ```
 git checkout -b branch_name
 ```
-tạo branch mới và di chuyển sang branch mới
+ブランチを新規作成して、新ブランチに移動する
 
 ```
-git merge
+git merge [branch_test]
 ```
-merge branch khác vào branch hiện tại.
-
+作業ブランチに[branch_test]の更新を取り込む
 ```
 branch -m [古いブランチ名] [新しいブランチ名]
 ```
