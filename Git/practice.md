@@ -123,9 +123,9 @@ git branch -m [新しいブランチ名]
 現在の作業中のブランチを変更する
 
 ### ローカルに保存されてるプロジェクトをGithubにプッシュする
-- GithubでREADMEがないリポシトリンを新規作成する
+- ステップ１：GithubでREADMEがないリポシトリンを新規作成する
 ![alt text](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/gitRepo.png "github repo Readme")
-- ロカールプロジェクトディレクトリに入って、下記のコンマンドラインを実行する
+- ステップ2：ロカールプロジェクトディレクトリに入って、下記のコンマンドラインを実行する
 ```
 git init
 git add README.md
