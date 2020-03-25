@@ -65,12 +65,30 @@ git commit -m 「comment」
 git status
 ```
 ワーキング・ツリーの状態を表示する
-
 ```
 git diff 「ダイレクトリー」
 ```
 ファイルの変更内容を表す
 working tree と index の差分などを表示する
+
+```
+git stash
+```
+変更差分をコミットせずに一時的に退避させることで保存できる。
+```
+ git stash list
+```
+スタッシュしたリストを表示
+
+```
+git stash apply
+```
+退避させた最新変更を戻す。
+
+```
+git stash apply   「復旧したいstash名」
+```
+復旧したいstashに戻す
 
 #### 2.ロッグに関するコマンド
 
