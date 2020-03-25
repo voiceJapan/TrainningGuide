@@ -22,6 +22,7 @@
 - https://backlog.com/ja/git-tutorial/
 - https://learngitbranching.js.org/ - git branch実施ツール
 - http://chris.beams.io/posts/git-commit/	
+- https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0
 	
 [注意]
 - 実施するために、[https://github.com/] のアカウントを必ず作成してください。
