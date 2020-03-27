@@ -28,9 +28,9 @@
 - 実施日数：10日（予定）
 - 教育形式：オンライコース
 - サポーター： リン、...
-- [環境設定](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javaSetup.md)
+- [環境設定]()
 
-- [教育内容URL](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javacore_tutorial.md)
+- [教育内容URL](https://github.com/voiceJapan/TrainningGuide/blob/master/JavaCore/javacore.md)
 
 ### 2.5.ミニプロジェクトと発表会
 - 実施日数：20日（予定）
