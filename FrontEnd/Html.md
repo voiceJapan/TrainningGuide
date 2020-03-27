@@ -7,7 +7,7 @@
 3日
 
 ## 3. 勉強スケジュール：
-### 最初の１日：
+### 最初の2日：
 - W3School コース
   - 1. [W3School html基礎コース: HTML Formsまで](https://www.w3schools.com/html/default.asp)
   - 2. [W3School CSS基礎コース](https://www.w3schools.com/css/default.asp)

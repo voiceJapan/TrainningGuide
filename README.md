@@ -13,7 +13,7 @@
 - [教育内容URL](https://github.com/voiceJapan/TrainningGuide/blob/master/Git/git_tutorial.md)
 
 ### 2.2.Front-end基礎(Html/CSS/JavaScript)
-- 実施日数：2日（予定）
+- 実施日数：4日（予定）
 - 教育形式：オンライコース
 - サポーター： リン,...
 - [教育内容URL](https://github.com/voiceJapan/TrainningGuide/blob/master/FrontEnd/Html.md)
