@@ -16,7 +16,7 @@
  
 ### 次2日
 - オンライコース：
-  - [Html/CSS/javaScript: Webプログラミング入門](https://www.udemy.com/course/html-css-js/learn/lecture/7965502?start=705#overview)
+  - [ 初めてのSQL・データ分析入門-データベースのデータをビジネスパーソンが現場で活用するためのSQL初心者向コース](https://www.udemy.com/course/standard-sql-for-beginners/learn/lecture/9424616?start=0#overview)
 
 ### 残る1日：
 - データベース設計
