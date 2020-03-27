@@ -23,7 +23,7 @@
 - [書類URL]()
 
 ## [参考URL]
-- Slide: https://drive.google.com/drive/folders/1ovrB3IFp6HmIEAPcSOsWw-8tgLMLHK6D?usp=sharing
+- Slide: 
 
 ## [参考書]
 - For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
