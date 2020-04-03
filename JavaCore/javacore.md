@@ -1,8 +1,15 @@
 # JAVA基礎
 
 ## 1. 教育目標
-- 
-- 
+下記の基礎知識を身につけるようにする：
+- 変数、定数、変数方
+- 式と演算子（オペレーター）
+- 配列
+- 分岐処理（If else, switch）
+- 反復処理（ループ）
+- Function,
+- オブジェクト指向オリエント
+
 ## 2. 実施日数:
 10日
 
@@ -13,7 +20,7 @@
  
 ### 残る5日：
 - オンライコース：
-  - [Full Stack Java developer - Java + JSP + Restful WS + Spring](https://www.udemy.com/course/full-stack-java-developer-java/learn/lecture/12981182?start=0#overview)
+  - [(英語) Full Stack Java developer - Java + JSP + Restful WS + Spring](https://www.udemy.com/course/full-stack-java-developer-java/learn/lecture/12981182?start=0#overview)
 
 
 ## [参考URL]
