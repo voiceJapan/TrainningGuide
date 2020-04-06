@@ -11,14 +11,15 @@
 - オブジェクト指向オリエント
 
 ## 2. 実施日数:
-10日
+4日
 
 ## 3. 勉強スケジュール：
 
-### 最初の 5日：
+### 最初の 2日：
 - [【 5日でできる】はじめての Java プログラミング入門](https://www.udemy.com/course/10daysjava/learn/lecture/3875408?start=0#overview)
+- OOP（オブジェクト指向オリエント）を大切にしてください
  
-### 残る5日：
+### 残る2日：
 - オンライコース：
   - [(英語) Full Stack Java developer - Java + JSP + Restful WS + Spring](https://www.udemy.com/course/full-stack-java-developer-java/learn/lecture/12981182?start=0#overview)
 
