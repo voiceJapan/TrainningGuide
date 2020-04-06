@@ -29,6 +29,7 @@
 ## [参考書]
 - Core Java Volume I- Fundamentals 9th Edition- Horstmann, Cay S. & Cornell, Gary.pdf
 https://drive.google.com/file/d/1tHZlIc2KMZOVPl0gagc2tB8gqopC8pn1/view?usp=sharing
+- https://github.com/SOUMSomOn/Java-Books
 
 注意：Udemyのアカウントとパスワードはメールで送られます。
 

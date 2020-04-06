@@ -38,4 +38,5 @@
 - 成果発表会: 5月22（予定）
 
 ### 参考書URL：
-https://drive.google.com/drive/folders/1QhGxju5t924eA4jVcvE_TEOuItjQRSfE?usp=sharing
+- https://drive.google.com/drive/folders/1QhGxju5t924eA4jVcvE_TEOuItjQRSfE?usp=sharing
+- https://github.com/SOUMSomOn/Java-Books
