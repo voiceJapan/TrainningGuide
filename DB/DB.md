@@ -11,10 +11,10 @@
 
 ## 3. 勉強スケジュール：
 
-### 最初の 2日：
+### 最初の 1日：
 - [W3School SQLコース](https://www.w3schools.com/sql/default.asp)
  
-### 次2日
+### 次1日
 - オンライコース：
   - [ 初めてのSQL・データ分析入門-データベースのデータをビジネスパーソンが現場で活用するためのSQL初心者向コース](https://www.udemy.com/course/standard-sql-for-beginners/learn/lecture/9424616?start=0#overview)
 
